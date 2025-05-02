@@ -4,7 +4,7 @@ icon: lightbulb
 
 # Port11 Interview Agents - Knowledge Transfer
 
-<figure><img src=".gitbook/assets/excali.png" alt=""><figcaption><p>Port11 Interview Agent Architecture</p></figcaption></figure>
+<figure><img src=".gitbook/assets/excali-interview-architecture.excalidraw.png" alt=""><figcaption><p>Port11 Interview Agent Architecture</p></figcaption></figure>
 
 ### Project Overview
 
