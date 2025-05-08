@@ -198,3 +198,5 @@ To create new agent configurations:
 * Tools provide functionality like information lookup and authentication
 * State tracking for complex flows
 * Model escalation for high-stakes decisions
+
+### Author: [Nidhi Yashwanth](https://github.com/nidhiyashwanth)

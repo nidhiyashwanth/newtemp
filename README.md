@@ -318,3 +318,5 @@ still maintaining the ability to evaluate candidate responses effectively.
 3. The codebase follows modern Next.js patterns with the App Router architecture
 4. Redux is used for client-side state that needs to persist across page   \
    navigations
+
+### Author: [Nidhi Yashwanth](https://github.com/nidhiyashwanth)
